@@ -11,7 +11,6 @@ After cleaning up the data a bit, I moved to the data exploration section. In th
 - What was the best month for sales? How much was earned that month?
 - What city sold the most product?
 - What time should we display advertisements to maximize the likelihood of customers buying products?
-- What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
 
 To answer these questions I followed different pandas & matplotlib methods, which include:
